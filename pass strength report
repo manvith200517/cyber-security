@@ -1,0 +1,21 @@
+Demo mode: evaluating a sample password (not a real credential).
+
+=== PASSWORD STRENGTH REPORT ===
+Password length : 23 characters
+Estimated entropy: 150.8 bits (rough estimate)
+Common-password check: No match in local starter list
+
+Policy checks:
+  [PASS] Minimum length
+  [PASS] Uppercase letter
+  [PASS] Lowercase letter
+  [PASS] Digit
+  [PASS] Special character
+
+Strength rating: Exceptional
+
+Recommendations:
+  - Good result. Keep it unique, enable multi-factor authentication, and use a password manager.
+
+Note: Entropy assumes random character selection. This local list is not
+a complete breach database; do not treat a 'no match' as proof of safety.
